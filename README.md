@@ -3,7 +3,7 @@
 
 - 將pg_pass.conf 放在 APPDATA 路徑下 (APPDATA 路徑可以用`echo %APPDATA%`)
 - `pg_pass.conf` 的內容有在folder 裏面
-- [`backup](http://backup.py).exe` 可以不需要修改只要修改`psqlsetup.json`裡面的內容即可
+- `backup.exe` 可以不需要修改只要修改`psqlsetup.json`裡面的內容即可
 - 時程設置路徑：控制台> 系統及安全> 排程 >建立工作 >命名>設定每天重複>動作放入我的exe擋並且要指定路徑到`psqlsetup.json`的folder
 
 # 架設網頁
