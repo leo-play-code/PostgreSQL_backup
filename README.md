@@ -10,5 +10,5 @@
 
 - 要先連外網將環境全部載下來 `pip install -r requirements.txt`
 - cmd 輸入 `ipconfig`找IPV4 並且將之當作server
-    - EX: `python [manage.py](http://manage.py) runserver  IP:8000`
-- [`settings.py`](http://settings.py) 裡面的資料庫要改內容成現在的資料庫
+    - EX: `python manage.py runserver  IP:8000`
+- `settings.py` 裡面的資料庫要改內容成現在的資料庫
